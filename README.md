@@ -1,11 +1,13 @@
-# opus_gui
+# Opus GUI
 A GUI to process music files into Opus.
 
-![v1.4 Screenshot](https://moisescardona.me/files/2018-12-03/1.webp)
+![v1.9 Screenshot](https://moisescardona.me/wp-content/uploads/2019/03/Opus-GUI-v1.9.png)
 
 I wrote this software to convert my FLAC music collection to the Opus format.
 
-You need to copy `opusenc.exe` to the location where you have this software.
+The software comes bundled with the Opus encoder. You will need to download ffmpeg if it is not in your system.
+
+You can get updated Opus Tools builds at my site here: [https://moisescardona.me/opusenc-builds/](https://moisescardona.me/opusenc-builds/).
 
 Written in Visual Basic .NET using Visual Studio 2017.
 
